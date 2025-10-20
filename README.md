@@ -14,4 +14,4 @@ Im a Graduate student at the UIUC currently studying Numerical Relativity.
 
  
  
-![fluids](https://giphy.com/gifs/physics-fluiddynamics-kelvinhelmholtz-w3Ze42saoQlL7Dc0N9)
+![fluids](https://giphy.com/gifs/physics-fluiddynamics-kelvinhelmholtz-w3Ze42saoQlL7Dc0N9.gif)
