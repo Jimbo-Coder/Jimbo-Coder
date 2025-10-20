@@ -15,5 +15,5 @@ Im a Graduate student at the UIUC currently studying Numerical Relativity.
  
  
 <p align="center">
-  <img src="https://media.giphy.com/media/w3Ze42saoQlL7Dc0N9/giphy.gif" alt="Kelvin-Helmholtz Instability" width="480"/>
+  <img src="./gif.gif" alt="Kelvin-Helmholtz Instability" width="480"/>
 </p>
